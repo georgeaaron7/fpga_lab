@@ -5,7 +5,7 @@
 4. Sequence Generator
 5. Traffic Light Controller
 6. Vending Machine
-7. Serial Adder
+7. Serial Adder (works but wrong code)
 8. Shift Add Multipler
 9. Modified Booth's Multiplier
 10. Array Multiplier
