@@ -7,7 +7,7 @@
 6. Vending Machine
 7. Serial Adder (works but wrong code)
 8. Shift Add Multipler
-9. Modified Booth's Multiplier
+9. Modified Booth's Multiplier (wrong ans)
 10. Array Multiplier
 11. Restoring and Non-Restoring Divison
 12. Floating Point Adder/Sub
